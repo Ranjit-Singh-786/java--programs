@@ -10,6 +10,8 @@ System.out.println(area_float);
 float areare=area(h);
 System.out.println(areare);
 }
+//this is userdefined func that return the int value and
+//no need the calling the object because this is static functin
 public static int area(int n1,int n2){
 int result = n1*n2;
 return result;
